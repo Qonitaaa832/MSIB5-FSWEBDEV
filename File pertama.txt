@@ -1,5 +1,5 @@
 Rincian Materi FS WEB - MSIB 5
-1. Web design (HTML CSS)
+1. Web design (HTML CSS Bootstrap)
 2. UI/UX
 3. GIT/GITHUB
 4. MySQL
@@ -8,3 +8,5 @@ Rincian Materi FS WEB - MSIB 5
 7. Soft Skill
 8. REST API
 9. Pemrogramraman java scripr
+10. React
+
