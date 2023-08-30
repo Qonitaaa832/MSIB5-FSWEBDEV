@@ -7,3 +7,4 @@ Rincian Materi FS WEB - MSIB 5
 6. Lavarel
 7. Soft Skill
 8. REST API
+9. Pemrogramraman java scripr
