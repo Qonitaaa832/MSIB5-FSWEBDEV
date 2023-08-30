@@ -6,3 +6,4 @@ Rincian Materi FS WEB - MSIB 5
 5. PHP
 6. Lavarel
 7. Soft Skill
+8. REST API
